@@ -14,7 +14,8 @@ You can generate QR codes effortlessly with Python, transforming any text or lin
 To run the project in your local environment,Python must be installed on your system and follow these steps:
 
 1. Clone the repository to your local machine or just copy-paste the code in `qr_gen.py`.
-2. Run `py qr_gen.py` in terminal or click on run `▶️` button to get the project started.
+2.  Run `pip install qrcode` in terminal.
+3. Run `py qr_gen.py` in terminal or click on run `▶️` button to get the project started.
 
 ## 📙 How to Use
 
